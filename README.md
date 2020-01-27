@@ -1,7 +1,7 @@
 # calculator-mobile-app
 -- Download the zip file and exctract it.
 
--- Open Android Studio, and go to File -> Open and select the folder that you 've just unziped.
+-- Open Android Studio, and go to <code>File -> Open</code> and select the folder that you 've just unziped.
 
 -- Run the app either to your phone either with the emulator.
 
