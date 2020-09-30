@@ -1,4 +1,4 @@
-# Calculator mobile app
+# Calculator Android mobile app
 
 Android mobile app built with Java in Android Studio. This is a simple (not scientific) calculator. No external libraries are used for the app.
 
